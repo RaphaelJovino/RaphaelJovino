@@ -14,7 +14,7 @@
 <img height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="logo-html">
 </div>
 
-#### Desenvolvimento web e criador de conteúdo de programação
+### Desenvolvimento web e criador de conteúdo de programação
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png">
 </div>
